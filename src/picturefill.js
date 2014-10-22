@@ -22,7 +22,6 @@
 	// namespace
 	pf.ns = "picturefill";
 
-
 	/* FIX FOR IE 7*/
 	var image = doc.createElement("img");
 
